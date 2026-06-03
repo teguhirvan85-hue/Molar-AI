@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 385.043 233.984" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Sidebar Item" opacity="0.6">
+<foreignObject x="83.0431" y="29.4805" width="306" height="144.228"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2px);clip-path:url(#bgblur_0_0_145_clip_path);height:100%;width:100%"></div></foreignObject><path id="Vector 2" data-figma-bg-blur-radius="4" d="M385.043 37.2084C227.043 17.2084 120.543 82.5417 87.0431 117.708V169.708C184.243 65.3084 326.21 64.5417 385.043 77.2084V37.2084Z" fill="var(--fill-0, #1E1E1E)" fill-opacity="0.04"/>
+<foreignObject x="23.981" y="13.0952" width="277.768" height="224.889"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2px);clip-path:url(#bgblur_1_0_145_clip_path);height:100%;width:100%"></div></foreignObject><path id="Vector 3" data-figma-bg-blur-radius="4" d="M297.749 185.969C216.134 31.8324 92.6625 10.2085 41.1287 18.6637L27.981 55.3807C168.814 44.7352 187.438 96.5466 280.556 233.984L297.749 185.969Z" fill="var(--fill-0, #B696E3)" fill-opacity="0.2"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_0_145_clip_path" transform="translate(-83.0431 -29.4805)"><path d="M385.043 37.2084C227.043 17.2084 120.543 82.5417 87.0431 117.708V169.708C184.243 65.3084 326.21 64.5417 385.043 77.2084V37.2084Z"/>
+</clipPath><clipPath id="bgblur_1_0_145_clip_path" transform="translate(-23.981 -13.0952)"><path d="M297.749 185.969C216.134 31.8324 92.6625 10.2085 41.1287 18.6637L27.981 55.3807C168.814 44.7352 187.438 96.5466 280.556 233.984L297.749 185.969Z"/>
+</clipPath></defs>
+</svg>
